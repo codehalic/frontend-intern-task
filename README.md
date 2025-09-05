@@ -46,3 +46,11 @@
 - **ساخت Custom Hooks**: ایجاد یک هوک سفارشی (مثلاً `useFetchData`) برای کپسوله‌سازی منطق دریافت داده، مدیریت وضعیت‌های `loading` و `error`.
 - **بهینه‌سازی عملکرد**: استفاده از `React.memo` برای جلوگیری از رندر مجدد غیرضروری کامپوننت‌های کارت پوکمون.
 - **استفاده از React Router**: به جای مودال، برای نمایش جزئیات از یک صفحه مجزا (`/pokemon/:name`) و `react-router-dom` استفاده شود.
+
+
+### دیزاین 
+
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b41180ba-c4d0-49b7-a7ce-cc65a888d32d" />
+
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/36fac447-c524-4647-a263-cff8ec82fd58" />
